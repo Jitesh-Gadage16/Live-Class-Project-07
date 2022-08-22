@@ -24,7 +24,7 @@
 ##   
 
 
- ## 🚀 Project 1 Live Link 
+ ## 🚀 Project 7 Live Link 
  
 - This Project is been Hosted on Netlify. [Project Live Link](https://live-class-project-7.netlify.app)
 
@@ -35,9 +35,11 @@
   This was the Landing page Template Design Given to convert it into ``HTML`` and ``CSS``.
  - Learnd to use css position  **[Relative & Absolute]** property.
 - Learned to use pseudo classes like :nth-child(), :not(), :last-child, first-child
+- Used Flex box Property
+- Handled mobile Responsive With Media Queries
 
 
  ## ⌛ Time taken to finish this project 
 
- - Complete 3 hrs 1 hr 30 min for responsive
+ - Complete 3 hrs and 1 hr 30 min for responsive
 
